@@ -39,6 +39,7 @@ eFootball
 ```
 
 Users can configure different cooling behaviour for individual games.
+<img width="1098" height="753" alt="image" src="https://github.com/user-attachments/assets/16570aeb-de41-43bc-af6c-d3b7f3c12cc7" />
 
 ---
 
