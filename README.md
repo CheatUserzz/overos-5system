@@ -6,6 +6,8 @@
 
 Over-OS is a modern Windows 11 gaming layer inspired by the best console experiences, bringing a fast Game Hub, Control Center, automatic cooling, game optimization, controller integration, notifications and much more into one application.
 
+
+
 ---
 
 ## 🚀 Features
@@ -44,6 +46,7 @@ Users can configure different cooling behaviour for individual games.
 
 A modern console-style Home interface for Windows.
 
+
 Launch:
 
 * 🎮 Games
@@ -53,7 +56,11 @@ Launch:
 * 🎵 Music
 * 🖥️ Utilities
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/81e5aa78-dd9d-4b31-86ad-1dce21ef9f92" />
+
 ### Control Center
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be9a46c5-6dab-4586-b115-507785c8e0f5" />
 
 Press **F12** to open the Over-OS Control Center without leaving the current application.
 
